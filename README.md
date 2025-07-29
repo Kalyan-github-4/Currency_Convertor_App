@@ -1,5 +1,5 @@
 # 💱Currency Converter App
-<img src="./src/assets/project-sc.png" alt="project-sc">
+![Project Banner]()
 
 A responsive currency converter application built with React that allows users to convert between different currencies using real-time exchange rates.
 
